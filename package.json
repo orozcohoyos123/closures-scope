@@ -1,0 +1,19 @@
+{
+  "name": "closures-scope",
+  "version": "1.0.0",
+  "description": "closures y scope en vanilla javascript",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/orozcohoyos123/closures-scope.git"
+  },
+  "author": "sebastian orozco",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/orozcohoyos123/closures-scope/issues"
+  },
+  "homepage": "https://github.com/orozcohoyos123/closures-scope#readme"
+}
